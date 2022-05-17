@@ -1,4 +1,5 @@
 {
+    // 接口约束函数
     interface UserInterface {
         name: string;
         age: number;
@@ -15,5 +16,6 @@
         user.isLock = lock;
         return user;
     }
+
     isLock1(user, true);
 }
