@@ -7,7 +7,7 @@ function sum1(a: number, b: number) {
     return a + b;
 }
 
-hd1 = '123';
-let h1 = sum(1, 2);
-console.log(sum(1, 3));
-console.log(hd1);
+// hd1 = '123';
+// let h1 = sum(1, 2);
+// console.log(sum(1, 3));
+// console.log(hd1);
